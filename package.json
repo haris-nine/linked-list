@@ -1,0 +1,14 @@
+{
+  "name": "linked-list-implementation",
+  "version": "1.0.0",
+  "description": "A custom implementation of a Linked List data structure",
+  "type": "module",
+  "main": "main.mjs",
+
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
